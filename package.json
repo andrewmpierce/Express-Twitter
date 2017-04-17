@@ -1,0 +1,14 @@
+{
+  "name": "express-play",
+  "version": "1.0.0",
+  "description": "hello world with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Pierce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
